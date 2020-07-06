@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document> 
+    <publisher location="San Francisco">Manning</publisher>
+    <author>
+        <firstname aka="Bablu">Prabhat</firstname>
+        <lastnmame>Sharma</lastnmame>
+        <text> <p>Something in html</p> </text>
+    </author>
+    <books>
+        <favoriteGenre>12345</favoriteGenre>
+        <book>
+            <title>A small book</title>
+        </book>
+        <book>
+            <title>A big book</title>
+        </book>
+    </books>
+</document>

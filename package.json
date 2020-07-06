@@ -1,0 +1,28 @@
+{
+  "name": "@prabhatsharma/xml2json",
+  "version": "1.0.0",
+  "description": "A beautiful XML to json converter",
+  "main": "parser.js",
+  "homepage": "https://github.com/prabhatsharma/prabhat-xml2json.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhatsharma/prabhat-xml2json.git"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "beautiful"
+  ],
+  "author": "Prabhat Sharma <hi.prabhat@gmail.com> (https://prabhatsharma.in)",
+  "license": "MIT",
+  "dependencies": {
+    "xmldoc": "^1.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/prabhatsharma/prabhat-xml2json/issues"
+  },
+  "devDependencies": {}
+}
